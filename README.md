@@ -27,3 +27,20 @@ transition from initial state와 effect of input을 구할 수 있다.
 
 ![image](https://github.com/user-attachments/assets/b1636bc6-8e74-4fb0-8c7a-948aeed6c072)
 
+#state transition matrix
+
+![image](https://github.com/user-attachments/assets/7332a3b7-aedf-4847-89b2-76e8ad2925f8)
+
+# example 3.1 
+
+![image](https://github.com/user-attachments/assets/3de48adb-dfe5-438f-aba3-68ec29e97de4)
+
+다음을 미분방정식으로 나타내면 
+
+![image](https://github.com/user-attachments/assets/ee1f0661-7be4-4a8e-9787-e75790d0a1ac)
+
+와 같이 되고 이를 행렬로 나타내면
+
+![image](https://github.com/user-attachments/assets/bd1ce10f-b16a-4227-9c17-d6769c794f11)
+
+이 된다. 
