@@ -44,3 +44,7 @@ transition from initial state와 effect of input을 구할 수 있다.
 ![image](https://github.com/user-attachments/assets/bd1ce10f-b16a-4227-9c17-d6769c794f11)
 
 이 된다. 
+
+이를 매트랩 코드로 나타내면 다음과 같다.
+
+![image](https://github.com/user-attachments/assets/cd0342e1-1436-428e-8015-3c893dcd4018)
